@@ -1,0 +1,13 @@
+These icons are modified from a free version of IcoMoon icons:
+https://github.com/Keyamoon/IcoMoon--limited-
+
+Refer to the documentation page to learn more:
+http://icomoon.io/#docs
+
+Original package is offered under one of these two licenses: CC BY 3.0 or GPL.
+
+http://creativecommons.org/licenses/by/3.0/
+http://www.gnu.org/licenses/gpl.html
+
+Modified icons are licensed GPL:
+http://www.gnu.org/licenses/gpl.html

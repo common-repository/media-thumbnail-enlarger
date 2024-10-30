@@ -1,0 +1,22 @@
+/* Enlarge Modal Media Library Thumbnails */
+
+.media-frame-content .attachment{
+	width: auto !important;
+}
+
+.media-frame-content .attachment-preview .thumbnail{
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.media-frame-content .landscape img{
+	width: auto!important;
+	max-width: 100% !important;
+	max-height: 100% !important;
+}
+
+.media-frame-content .portrait img{
+	max-height: 100% !important;
+	max-width: 100% !important;
+	height: auto !important;
+}
